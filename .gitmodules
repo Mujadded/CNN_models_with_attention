@@ -1,0 +1,3 @@
+[submodule "pytorch_trainer"]
+	path = pytorch_trainer
+	url = git@github.com:Mujadded/pytorch_trainer.git
